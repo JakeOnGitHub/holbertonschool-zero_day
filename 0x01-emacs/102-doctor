@@ -1,3 +1,1 @@
-emacs
-<shift><escape>
-x doctor<return>
+M-x doctor
